@@ -22,6 +22,7 @@ public class Greetings {
     public static void greetUser(String name) {
 
         System.out.println("Hello, " + name + "! Thhis is java programming written by dev A");        System.out.println("Hello, " + name + "! Good Morning Satej by dev 2");
+        System.out.println("Hello, " + name + "! Good Morning by PD Dev");
     }
 }
 
